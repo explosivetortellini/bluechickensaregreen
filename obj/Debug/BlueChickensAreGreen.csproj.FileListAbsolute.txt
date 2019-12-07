@@ -1,0 +1,6 @@
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\bin\Debug\BlueChickensAreGreen.dll
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\bin\Debug\BlueChickensAreGreen.pdb
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\obj\Debug\BlueChickensAreGreen.csprojAssemblyReference.cache
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\obj\Debug\BlueChickensAreGreen.csproj.CoreCompileInputs.cache
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\obj\Debug\BlueChickensAreGreen.dll
+D:\Documents\BlueChickensAreGreen\BlueChickensAreGreen\obj\Debug\BlueChickensAreGreen.pdb
